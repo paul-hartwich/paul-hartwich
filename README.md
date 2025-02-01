@@ -31,8 +31,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paul-hartwich&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=paul-hartwich&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paul-hartwich&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=true&order=2" height="140" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=paul-hartwich&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="140" alt="streak graph"  />
 </div>
 
 ###
