@@ -1,4 +1,4 @@
-<h2 align="left">🥰 Hi</h2>
+<h2 align="left">🥰</h2>
 
 ###
 
@@ -35,7 +35,6 @@
   <img src="https://streak-stats.demolab.com?user=paul-hartwich&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="125" alt="streak graph"  />
 </div>
 
-###
 
 <br clear="both">
 
