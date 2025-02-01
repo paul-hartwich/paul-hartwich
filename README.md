@@ -1,6 +1,4 @@
-<h2 align="left">🥰</h2>
-
-###
+## 🥰
 
 <div align="left">
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="40" alt="rust logo"  />
@@ -31,8 +29,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paul-hartwich&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=default&hide_border=true&order=2" height="130" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=paul-hartwich&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="130" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paul-hartwich&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=nord&hide_border=true&order=2" height="130" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=paul-hartwich&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="130" alt="streak graph"  />
 </div>
 
 
