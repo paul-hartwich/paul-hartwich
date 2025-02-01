@@ -1,4 +1,4 @@
-<h2 align="left">🥰</h2>
+<h2 align="left">🥰 Hi</h2>
 
 ###
 
@@ -25,7 +25,8 @@
 </div>
 
 ###
-<img align="right" height="200" src="https://github.com/paul-hartwich/paul-hartwich/blob/main/chill_guy.png"  />
+
+<img align="right" height="350" src="https://github.com/paul-hartwich/paul-hartwich/blob/main/chill_guy.png?raw=true"  />
 
 ###
 
